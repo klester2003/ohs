@@ -1,1 +1,12 @@
+WEEK 2
 
+heading
+<h1> </h1>
+paragraphs
+<p> </p>
+button
+<button> </button>
+links
+<a href="https://ohs.gitbook.io/learn/html-fundamentals">click here</a>
+Images
+<img src="  "   alt=" "  width=" "  heigth=" " >
